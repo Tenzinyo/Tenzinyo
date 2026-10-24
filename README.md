@@ -5,6 +5,6 @@
 - 🧪 In the summer of 2024, I interned at HiddenLayer as a Junior Engineer, writing unit and integration tests in Go and raising code coverage from 55% to 65%
 - 🔬 I have also worked on computer vision research, Hardware Systems, and Data Analysis projects
 - 💞️ I'm looking to collaborate on software projects, mainly AI agents, backend, and data analytics
-- 📫 Email me @ tezinyoden@gmail.com, or find me on LinkedIn and my Personal Website
+- 📫 Email me @ tezinyoden@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/tenzin-uden/) and my [Personal Website](https://tenzin-bytes-bloom.lovable.app/)
 
 
